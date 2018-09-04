@@ -19,7 +19,7 @@
     </ul>  
     <h2>Data</h2>
     <ul class="data">
-        <li>Boston dataset</li>
+        <li>Raffle 30 datas from boston dataset</li>
         <li>Generate 30 datas with same distrubution</li>
     </ul>
     <h2>Hypothesis</h2>
