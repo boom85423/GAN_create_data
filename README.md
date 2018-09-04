@@ -5,8 +5,8 @@
         <li>Samples size is not big enough</li>
         <li>Two samples size are disparity</li>
     </ul>
-    <h2>Instance</h2>
-    <ul class="instance">
+    <h2>Implement</h2>
+    <ul class="implement">
         <li>Generator</li>
         <ul class="detail">
             <li>Maximum the type I error</li>
